@@ -1,6 +1,5 @@
-###FIND NEW IMAGE
-![](reports/figures/dark_ocean.jpg)
-*<span>Photo by [Ian Espinosa](https://unsplash.com/@greystorm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
+![](reports/figures/dark_ocean.jpg =150x250)
+*Photo by [Ian Espinosa](https://unsplash.com/@greystorm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
 
 # Classifying Mental Health: The Reddit Proxy
 
