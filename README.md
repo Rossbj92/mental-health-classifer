@@ -13,6 +13,7 @@ A [Flask app](https://mental-health-classifier.herokuapp.com/) using the final m
 2. Install package requirements in ```requirements.txt```
 3. Process data with [cleaning](Notebooks/Cleaning.ipynb) notebook
 4. Model ([modeling](Notebooks/Modeling.ipynb) notebook)
+<br>
 (Optional) Run [webscraper](Notebooks/Scraping.ipynb) notebook
 
 A test sample of data is provided to run the notebooks. Should you want to gather new data, simply refer to the ```Scraping``` notebook.
