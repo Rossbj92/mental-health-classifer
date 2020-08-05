@@ -1,4 +1,4 @@
-<p style="text-align:center;"><a href="url"><img src="https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" height="500" width="300" ></a></p>
+<p align="center"><a href="url"><img src="https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" height="500" width="300" ></a></p>
 <br>
 <br>
 
