@@ -1,4 +1,4 @@
-<p align="center"><a href="url"><img src="https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" height="500" width="400" ></a></p>
+<p align="center"><a href="url"><img src="https://images.unsplash.com/photo-1500099817043-86d46000d58f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" height="600" width="400" ></a></p>
 <p align="center">Photo by <a href="https://unsplash.com/@greystorm?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Ian Espinosa</a> on <a href="https://unsplash.com/s/photos/sad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" target="_blank">Unsplash</a></p>
 
 # Classifying Mental Health: The Reddit Proxy
